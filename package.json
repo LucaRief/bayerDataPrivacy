@@ -1,0 +1,11 @@
+{
+  "name": "SharePoint",
+  "version": "1.0.0",
+  "description": "Share Point",
+  "main": "index.html",
+  "scripts": {
+    "test": "go-test"
+  },
+  "author": "SAP FSM",
+  "license": "ISC"
+}
